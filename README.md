@@ -6,6 +6,10 @@ This repository contains a data visualization project exploring the economic and
 
 The report investigates critical indicators such as **poverty rates**, **unemployment trends**, **migration patterns**, **educational attainment**, and **economic typology**, comparing rural counties to urban ones using a series of data-driven visualizations.
 
+
+**Date**
+December 9, 2024
+
 ## Team Members
 - Areeg Elkholy  
 - Hana Waleed  
@@ -14,8 +18,6 @@ The report investigates critical indicators such as **poverty rates**, **unemplo
 ## Instructor
 Dr. Seif Eldawaltly
 
-**Date**
-December 9, 2024
 
 ## Core Skills Demonstrated
 - Real-world data analysis across multiple socioeconomic indicators
