@@ -7,7 +7,7 @@ This repository contains a data visualization project exploring the economic and
 The report investigates critical indicators such as **poverty rates**, **unemployment trends**, **migration patterns**, **educational attainment**, and **economic typology**, comparing rural counties to urban ones using a series of data-driven visualizations.
 
 
-**Date**
+**Date of Completion**
 December 9, 2024
 
 ## Team Members
