@@ -14,8 +14,8 @@ The report investigates critical indicators such as **poverty rates**, **unemplo
 ## Instructor
 Dr. Seif Eldawaltly
 
-## Semester
-Fall 2024
+**Date**
+December 9, 2024
 
 ## Core Skills Demonstrated
 - Real-world data analysis across multiple socioeconomic indicators
